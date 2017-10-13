@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="repository.playbe" version="1.0.0" name="PlayBe Repozitár" provider-name="PlayBe Repozitár">
+  <extension point="xbmc.addon.repository" name="PlayBe Repozitár">
+    <info compressed="false">http://kodi.serialhd.cz/repository/addons.xml</info>
+    <checksum>http://kodi.serialhd.cz/repository/addons.xml.md5</checksum>
+    <datadir zip="true">http://kodi.serialhd.cz/repository/</datadir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>PlayBe Repozitár</summary>
+    <description>Tento repozitár obsahuje video doplnky pre službu PlayBe.</description>
+    <description lang="cs">Tento repozitár obsahuje video doplnky pre službu PlayBe.</description>
+    <platform>all</platform>
+    <language>cs sk</language>
+  </extension>
+</addon>
